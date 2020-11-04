@@ -12,7 +12,9 @@ program can be compiled with `make`
 ## Data Sets
 I have included to example data sets, they should be in the form:
     `x, y
+
      x, y
+     
      x, y`
 
 ## One Final Note
