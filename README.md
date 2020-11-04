@@ -11,9 +11,9 @@ program can be compiled with `make`
 
 ## Data Sets
 I have included to example data sets, they should be in the form: </br>
+    `x,y </br>
     x,y </br>
-    x,y </br>
-    x,y </br>
+    x,y </br>`
 
 ## One Final Note
 This is just the first version of my Linear Regression Function.
