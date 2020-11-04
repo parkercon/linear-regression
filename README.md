@@ -6,7 +6,7 @@ optimizing theta (the gradient hypothesis) using gradient descent.
 ## Matplot++
 NOTE: In order to graph the data set and line of best fit, I have included
 the c++ graphics library [Matplot++](https://github.com/alandefreitas/matplotplusplus).
-It is required to run the program. I have also included my `CMakeLists.txt` file to the 
+It is required to run the program. I have also included my `CMakeLists.txt` file so the 
 program can be compiled with `make`
 
 ## Data Sets
