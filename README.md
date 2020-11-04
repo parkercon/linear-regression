@@ -15,6 +15,9 @@ I have included to example data sets, they should be in the form: </br>
     x,y </br>
     x,y </br>`
 
+## Example Output
+![alt text](ex-image/ex-image1.png)
+
 ## One Final Note
 This is just the first version of my Linear Regression Function.
 Some optimization, error-handling, and polishing is still needed
